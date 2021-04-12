@@ -28,6 +28,7 @@ main{
   display: grid;
   grid-template-columns: 1fr;
   grid-column-gap: 1em;
+  background-color: black;
 }
 p{
   margin: auto;
