@@ -1,5 +1,6 @@
 h1{
   color: white;
+  background-color: black;
 }
 
 h2{
@@ -11,6 +12,7 @@ h2{
   margin: 0;
   padding: .25em 0 .25em 0;
   border-bottom: 1px solid #ccc;
+  background-color: black;
 
 }
 
@@ -55,7 +57,7 @@ nav a {
   margin: 10px;
   background-color: pink;
   width: 100px;
-  color: pinkS;
+  color: black;
   transition: background-color 1.0s, width 2.0s, color 2.0s;S
 }
 
